@@ -1,0 +1,52 @@
+page_format=txt2tags
+page_template=template
+
+page_title=Hobby Projects
+page_description=Vitaly Repin's Hobby Projects
+page_header1=Vitaly Repin
+page_header2=Hobby Projects
+page_keywords=e-learning, fsfe,  free software, open source, maemo, meego, Nokia
+
+<<<<< content section 1 >>>>>
+
+== Publishing (LaTeX) ==
+
+- [Wall Calendar generator http://vitalyrepin.github.io/WallCalendar/] Example: ["Four Seasons" calendar, 2014 http://vrepin.org/cal2014/index.html]
+- [The Modern and the Postmodern http://vrepin.org/studies/ModernPostmodern/WebSite/] course album [available for purchase http://www.lulu.com/commerce/index.php?fBuyContent=14103925] using
+POD. [LaTeX sources https://github.com/vitalyrepin/Modern2013/tree/master/CourseAlbum] (mindmaps, timeline diagrams, QR codes, apache htaccess generation etc)
+- [TeX PGF/TikZ fun https://github.com/vitalyrepin/FunnyMathTikz]
+
+
+== Collection of high-quality courses ==
+
+I like MOOCs but I carefully select the MOOCs to participate in.
+I've collected the links to the courses I've got, liked and can recommend to the people who have similar interests as mine.
+
+
+=== Humanities ===
+
+|| Course | Provider / Instructor | My results
+| [Greek and Roman Mythology https://www.coursera.org/course/mythology] | [Peter Struck, Ph.D. http://www.sas.upenn.edu/~struck/],  University of Pennsylvania | [Course record https://www.coursera.org/records/gUETsRYcwpbcCFBj], [Certificate http://vrepin.org/studies/Mythology2013/Courseramythology2013.pdf]
+| [The Modern and the Postmodern https://www.coursera.org/course/modernpostmodern] | [Dr. Michael S. Roth http://www.wesleyan.edu/president/biography/index.html], Wesleyan University | [Course record https://www.coursera.org/records/dQnev9GXaUcdt7j5], [Certificate http://vrepin.org/studies/ModernPostmodern/ModernPostmodern.pdf]
+| [Søren Kierkegaard - Subjectivity, Irony and the Crisis of Modernity https://www.coursera.org/course/kierkegaard] | [Dr. Jon Stewart http://www.jonstewart.dk/side_1.htm], Copenhagen University | [Certificate http://vrepin.org/studies/Kierkegaard/Courserakierkegaard2013.pdf]
+| [Designing Cities https://www.coursera.org/course/designingcities] | [Gary Hack http://www.design.upenn.edu/people/hack_gary], [Jonathan Barnett http://www.design.upenn.edu/people/barnett_jonathan], [Stefan Al http://www.design.upenn.edu/people/al_stefan], University of Pennsylvania | [Certificate http://vrepin.org/studies/CityDesign2013/Courseradesigningcities2013.pdf]
+
+
+=== Software Engineering ===
+
+|| Course | Provider / Instructor | My results
+| [Functional Programming Principles in Scala https://www.coursera.org/course/progfun] | [Martin Odersky http://en.wikipedia.org/wiki/Martin_Odersky], École Polytechnique Fédérale de Lausanne | [Certificate http://vrepin.org/studies/scala/CourseraScala.pdf]
+| [MongoDB for Developers https://education.mongodb.com/courses/10gen/M101P/2014_February/about] | MongoDB University [(10gen) http://www.mongodb.com/] | [Certificate http://education.mongodb.com/downloads/certificates/ffb9cc3e451a4829ac73c436e6ca32e7/Certificate.pdf]
+| [MongoDB for DBAs  https://education.mongodb.com/courses/10gen/M102/2014_February/about] | MongoDB University [(10gen) http://www.mongodb.com/] | In progress 
+
+
+
+== Tourism ==
+
+- [Photos and videos http://www.flickr.com/photos/vitalyrepin/collections/72157602224858025/]
+
+
+== Misc ==
+
+- [My dot files https://gitorious.org/var-config-files/var-config-files]
+- [My github https://github.com/vitalyrepin/]
